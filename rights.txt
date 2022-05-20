@@ -1,0 +1,225 @@
+
+Dataset: Albury Wodonga Nature Map
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: City of Sydney Council Fauna Sightings
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Southern Highlands Nature Map
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Animal Sound Archive
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Anfibios de un sector del cerro Tacarcuna-Chocó, en el marco del proyecto Colombia BIO- 2017
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Database of Australasian Vertebrate Occurrences
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Macquarie University Biodiversity and Conservation Student Observations
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: MSB Amphibian and Reptile Collection (Arctos)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Caracterización de Fauna para el plan de Etnodesarrollo de Bahía Cupica, Chocó
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Littlewood Species List
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: ECOLINC: BIODIVERSITY OF THE WESTERN VOLCANIC PLAINS SIGHTINGS
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: UTEP Herpetology (Arctos)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: CM Herps Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Northern Territory WildWatch
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: ACT BioBlitz
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Anfibios y reptiles de las regiones Chimalapas (7) y bosque de coníferas y BMM de Veracruz (11)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Paleobiology Database
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Logan City Council Species Sightings
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Rapid Assessment Program (RAP) Biodiversity Survey Database
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Apoyo a las colecciones biológicas de la Facultad de Ciencias de la UNAM: Fase 1 (MZFC_HE)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Apoyo a las colecciones biológicas de la Facultad de Ciencias de la UNAM: Fase 1 (Herpetológica)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Canadian Museum of Nature Amphibian and Reptile Collection
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Natural History Museum (London) Collection Specimens
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: UTEP Herpetology Osteology (Arctos)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Caracterización ecológica de reptiles presentes en los bosques subxerofíticos de Unguía, Chocó
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Borror Lab of Bioacoustics (BLB), Ohio State University
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Museo de Historia Natural Universidad de Caldas - Colección de Vertebrados e Invertebrados - Anfibios
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Northern Gulf Fauna Survey
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Monitoreo de la Fauna Silvestre con Capacitación y Certificación de Monitores Comunitarios en las Microrregiones Prioritarias para la Conectividad y Conservación de la Biodiversidad Agua Blanca, Cañón del Usumacinta, Sierra de Tabasco, *
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Caracterización biológica del Monumento Natural Yaxchilán como un elemento fundamental para el diseño de su plan rector de manejo
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Herpetology Collection NRM
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: SDNHM Herpetology Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Computarización de las colecciones de vertebrados terrestres de la Escuela Nacional de Ciencias Biológicas, IPN Fase 4 (Anfibios y reptiles)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Inventario y monitoreo de anfibios y mariposas en la Reserva de Calakmul, Campeche
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Partial Amphibians Collection
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Great Eastern Ranges - Slopes to Summit
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Actualización de la base de datos de la colección nacional de anfibios y reptiles (CNAR)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Arizona State University Herpetology Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Macaulay Library Audio and Video Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: AM: Freshwater Invertebrates (1900-2005)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Inventario y monitoreo de anfibios, reptiles y mariposas en la Reserva de Calakmul, Campeche, Fase II
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: University of Florida Herpetology
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Colección de anfibios - Museo de Herpetología de la Universidad de Antioquia
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: SANBI: DNA Banking(1987-2011)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Biodiversity Research and Teaching Collections - TCWC Vertebrates
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Cruzando el Caribe - Construyendo la capacidad para el ecoturismo en el Darién y Urabá
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: RBINS DaRWIN
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Fauna anfibia asociada al bosque del resguardo indígena Cuti, municipio de Unguía, Chocó. 2020
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Vertebrate Zoology Division - Herpetology, Yale Peabody Museum
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Atlas of Life in the Coastal Wilderness
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Herpetology Collection - Royal Ontario Museum
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: UCM Amphibian and Reptile Collection (Arctos)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: NatureShare
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Geelong Field Naturalists Club
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SMNS Herpetologie
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Sistematización de las colecciones científicas del Instituto de Historia Natural y Ecología, (IHNE) Chiapas
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Fortalecimiento de las colecciones de ECOSUR. Primera fase (Herpetológica San cristóbal)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The Herpetology Collection at the Staatliches Museum für Naturkunde Stuttgart
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Universidad del Valle de Guatemala - Colecciones Biológicas - Anfibios
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Fortalecimiento de las colecciones de ECOSUR. Primera fase (Herpetológica Chetumal)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: La Colección Herpetológica de la Estación de Biología Tropical Los Tuxtlas, Veracruz
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Tasmanian Museum and Art Gallery provider for OZCAM
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: FBIP: Amphibian biodiversity and eco-tourism
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Estado actual de la distribución de los anfibios y reptiles de la Región de Los Tuxtlas
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: CUMV Amphibian and Reptile Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: IICT Colecção Zoológica
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Mozambique Herpetological Collection - IICT
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Herpetofauna del Estado de Veracruz
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Anfibios presentes en el resguardo indígena de Arquía, municipio de Unguía-Chocó. 2020
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: naturgucker
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Formación de una base de datos y elaboración de un atlas de la herpetofauna de México (Anfibiosreptiles)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Conservación y monitoreo de anfibios en riesgo de extinción en Chiapas
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Actualización y enriquecimiento de las bases de datos del proyecto de evaluación y análisis geográfico de la diversidad faunística de Chiapas
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Collection Herpetology SMF
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: University of Michigan Museum of Zoology, Division of Reptiles & Amphibians
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: INSDC Sequences
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Canberra Nature Map
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: kznm-herpetology-collection
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: International Barcode of Life project (iBOL)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Queen Victoria Museum Art Gallery provider for OZCAM
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: MVZ Herp Collection (Arctos)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: ALA species sightings and OzAtlas
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Occurrence records of southern African aquatic biodiversity
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Observation.org, Nature data from around the World
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Arthur Chapman Observations
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Ditsong National Museum of Natural History Collection: 1805-2008
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: CAS Herpetology (HERP)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: The distribution and host range of the pandemic disease chytridiomycosis in Australia, spanning surveys from 1956 to 2007.
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Northern Territory Museum and Art Gallery provider for OZCAM
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Earth Guardians Weekly Feed
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: LACM Vertebrate Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: KUBI Herpetology Collection
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NMNH Extant Specimen Records (USNM, US)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: ACT Wildlife Atlas
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Frogwatch ACT and Region
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Australian National Wildlife Collection provider for OZCAM
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Museum of Comparative Zoology, Harvard University
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Fauna Atlas N.T.
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Queensland Museum provider for OZCAM
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: South Australian Museum Australia provider for OZCAM
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: FrogWatch SA
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Western Australian Museum provider for OZCAM
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Tasmanian Natural Values Atlas
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: WildNet - Queensland Wildlife Data
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Australian Museum provider for OZCAM
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Melbourne Water Frog Census
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: iNaturalist Research-grade Observations
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Museums Victoria provider for OZCAM
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SA Fauna (BDBSA)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Victorian Biodiversity Atlas
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: NSW BioNet Atlas
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: FrogID
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode

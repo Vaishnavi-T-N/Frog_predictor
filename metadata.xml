@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="10.15468/dl.csc4n4"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+        <alternateIdentifier>0151493-210914110416597</alternateIdentifier>
+    <title>GBIF Occurrence Download 10.15468/dl.csc4n4</title>
+    <creator>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2022-02-23
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>A dataset containing all occurrences available in GBIF matching the query:
+{
+  &quot;and&quot; : [
+    &quot;HasGeospatialIssue is false&quot;,
+    &quot;OccurrenceStatus is Present&quot;,
+    {
+      &quot;or&quot; : [
+        &quot;Geometry POLYGON((-75.67383 6.32076,-84.99023 22.11109,-104.61182 28.16895,-108.54492 17.81669,-86.92383 6.14602,-75.67383 6.32076))&quot;,
+        &quot;Geometry POLYGON((132.71484 -8.74394,110.21484 -21.60637,113.02734 -38.53957,152.05078 -46.55131,155.8913 -25.64963,150.0293 -17.92969,143.52539 -9.84375,132.71484 -8.74394))&quot;,
+        &quot;Geometry POLYGON((10.81055 -15.46875,11.86523 -35.8846,36.47461 -36.38672,36.29883 -15.46875,10.81055 -15.46875))&quot;
+      ]
+    },
+    {
+      &quot;or&quot; : [
+        &quot;TaxonKey is Crinia signifera Girard, 1853&quot;,
+        &quot;TaxonKey is Litoria fallax (Peters, 1880)&quot;,
+        &quot;TaxonKey is Dendrobates auratus (Girard, 1855)&quot;,
+        &quot;TaxonKey is Xenopus laevis (Daudin, 1802)&quot;,
+        &quot;TaxonKey is Agalychnis callidryas (Cope, 1862)&quot;,
+        &quot;TaxonKey is Crinia glauerti Loveridge, 1933&quot;,
+        &quot;TaxonKey is Ranoidea australis (Gray, 1842)&quot;,
+        &quot;TaxonKey is Chiromantis xerampelina Peters, 1854&quot;,
+        &quot;TaxonKey is Austrochaperina pluvialis (Zweifel, 1965)&quot;
+      ]
+    },
+    {
+      &quot;not&quot; : {
+        &quot;and&quot; : [
+          &quot;Year is greater than or equal to 2015&quot;,
+          &quot;CoordinateUncertaintyInMeters is not null&quot;,
+          {
+            &quot;or&quot; : [
+              &quot;Geometry POLYGON((-85.0934 10.7371,-85.0934 10.2184,-84.5782 10.2184,-84.5782 10.7371,-85.0934 10.7371))&quot;,
+              &quot;Geometry POLYGON((-84.2311 10.7109,-84.2311 10.1993,-83.7237 10.1993,-83.7237 10.7109,-84.2311 10.7109))&quot;,
+              &quot;Geometry POLYGON((18.3716 -33.6813,18.3716 -34.1335,18.8461 -34.1335,18.8461 -33.6813,18.3716 -33.6813))&quot;,
+              &quot;Geometry POLYGON((30.5708 -23.7978,30.5708 -24.226,31.0776 -24.226,31.0776 -23.7978,30.5708 -23.7978))&quot;,
+              &quot;Geometry POLYGON((31.4648 -24.976,31.4648 -25.421,31.9451 -25.421,31.9451 -24.976,31.4648 -24.976))&quot;
+            ]
+          },
+          {
+            &quot;or&quot; : [
+              {
+                &quot;and&quot; : [
+                  &quot;TaxonKey is Agalychnis callidryas (Cope, 1862)&quot;,
+                  &quot;CoordinateUncertaintyInMeters is less than or equal to 232&quot;
+                ]
+              },
+              {
+                &quot;and&quot; : [
+                  &quot;TaxonKey is Dendrobates auratus (Girard, 1855)&quot;,
+                  &quot;CoordinateUncertaintyInMeters is less than or equal to 532&quot;
+                ]
+              },
+              {
+                &quot;and&quot; : [
+                  &quot;TaxonKey is Xenopus laevis (Daudin, 1802)&quot;,
+                  &quot;CoordinateUncertaintyInMeters is less than or equal to 31&quot;
+                ]
+              },
+              {
+                &quot;and&quot; : [
+                  &quot;TaxonKey is Chiromantis xerampelina Peters, 1854&quot;,
+                  &quot;CoordinateUncertaintyInMeters is less than or equal to 108&quot;
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
+The dataset includes records from the following constituent datasets. The full metadata for each constituent is also included in this archive:
+1 records from Albury Wodonga Nature Map
+1 records from City of Sydney Council Fauna Sightings
+1 records from Southern Highlands Nature Map
+1 records from Animal Sound Archive
+1 records from Anfibios de un sector del cerro Tacarcuna-Chocó, en el marco del proyecto Colombia BIO- 2017
+1 records from Database of Australasian Vertebrate Occurrences
+1 records from Macquarie University Biodiversity and Conservation Student Observations
+1 records from MSB Amphibian and Reptile Collection (Arctos)
+1 records from Caracterización de Fauna para el plan de Etnodesarrollo de Bahía Cupica, Chocó
+1 records from Littlewood Species List
+1 records from ECOLINC: BIODIVERSITY OF THE WESTERN VOLCANIC PLAINS SIGHTINGS
+1 records from UTEP Herpetology (Arctos)
+1 records from CM Herps Collection
+1 records from Northern Territory WildWatch
+2 records from ACT BioBlitz
+2 records from Anfibios y reptiles de las regiones Chimalapas (7) y bosque de coníferas y BMM de Veracruz (11)
+2 records from Paleobiology Database
+2 records from Logan City Council Species Sightings
+2 records from Rapid Assessment Program (RAP) Biodiversity Survey Database
+2 records from Apoyo a las colecciones biológicas de la Facultad de Ciencias de la UNAM: Fase 1 (MZFC_HE)
+2 records from Apoyo a las colecciones biológicas de la Facultad de Ciencias de la UNAM: Fase 1 (Herpetológica)
+2 records from Canadian Museum of Nature Amphibian and Reptile Collection
+2 records from Natural History Museum (London) Collection Specimens
+3 records from UTEP Herpetology Osteology (Arctos)
+3 records from Caracterización ecológica de reptiles presentes en los bosques subxerofíticos de Unguía, Chocó
+3 records from Borror Lab of Bioacoustics (BLB), Ohio State University
+3 records from Museo de Historia Natural Universidad de Caldas - Colección de Vertebrados e Invertebrados - Anfibios
+4 records from Northern Gulf Fauna Survey
+4 records from Monitoreo de la Fauna Silvestre con Capacitación y Certificación de Monitores Comunitarios en las Microrregiones Prioritarias para la Conectividad y Conservación de la Biodiversidad Agua Blanca, Cañón del Usumacinta, Sierra de Tabasco, *
+4 records from Caracterización biológica del Monumento Natural Yaxchilán como un elemento fundamental para el diseño de su plan rector de manejo
+4 records from Herpetology Collection NRM
+5 records from SDNHM Herpetology Collection
+5 records from Computarización de las colecciones de vertebrados terrestres de la Escuela Nacional de Ciencias Biológicas, IPN Fase 4 (Anfibios y reptiles)
+6 records from Inventario y monitoreo de anfibios y mariposas en la Reserva de Calakmul, Campeche
+7 records from Partial Amphibians Collection
+7 records from Great Eastern Ranges - Slopes to Summit
+7 records from Actualización de la base de datos de la colección nacional de anfibios y reptiles (CNAR)
+7 records from Arizona State University Herpetology Collection
+7 records from Macaulay Library Audio and Video Collection
+8 records from AM: Freshwater Invertebrates (1900-2005)
+9 records from Inventario y monitoreo de anfibios, reptiles y mariposas en la Reserva de Calakmul, Campeche, Fase II
+10 records from University of Florida Herpetology
+11 records from Colección de anfibios - Museo de Herpetología de la Universidad de Antioquia
+11 records from SANBI: DNA Banking(1987-2011)
+12 records from Biodiversity Research and Teaching Collections - TCWC Vertebrates
+12 records from Cruzando el Caribe - Construyendo la capacidad para el ecoturismo en el Darién y Urabá
+13 records from RBINS DaRWIN
+13 records from Fauna anfibia asociada al bosque del resguardo indígena Cuti, municipio de Unguía, Chocó. 2020
+15 records from Vertebrate Zoology Division - Herpetology, Yale Peabody Museum
+15 records from Atlas of Life in the Coastal Wilderness
+16 records from Herpetology Collection - Royal Ontario Museum
+18 records from UCM Amphibian and Reptile Collection (Arctos)
+18 records from NatureShare
+19 records from Geelong Field Naturalists Club
+20 records from SMNS Herpetologie
+21 records from Sistematización de las colecciones científicas del Instituto de Historia Natural y Ecología, (IHNE) Chiapas
+21 records from Fortalecimiento de las colecciones de ECOSUR. Primera fase (Herpetológica San cristóbal)
+23 records from The Herpetology Collection at the Staatliches Museum für Naturkunde Stuttgart
+25 records from Universidad del Valle de Guatemala - Colecciones Biológicas - Anfibios
+27 records from Fortalecimiento de las colecciones de ECOSUR. Primera fase (Herpetológica Chetumal)
+27 records from La Colección Herpetológica de la Estación de Biología Tropical Los Tuxtlas, Veracruz
+27 records from Tasmanian Museum and Art Gallery provider for OZCAM
+28 records from FBIP: Amphibian biodiversity and eco-tourism
+29 records from Estado actual de la distribución de los anfibios y reptiles de la Región de Los Tuxtlas
+33 records from CUMV Amphibian and Reptile Collection
+33 records from IICT Colecção Zoológica
+35 records from Mozambique Herpetological Collection - IICT
+40 records from Herpetofauna del Estado de Veracruz
+41 records from Anfibios presentes en el resguardo indígena de Arquía, municipio de Unguía-Chocó. 2020
+42 records from naturgucker
+43 records from Formación de una base de datos y elaboración de un atlas de la herpetofauna de México (Anfibiosreptiles)
+46 records from Conservación y monitoreo de anfibios en riesgo de extinción en Chiapas
+53 records from Actualización y enriquecimiento de las bases de datos del proyecto de evaluación y análisis geográfico de la diversidad faunística de Chiapas
+57 records from Collection Herpetology SMF
+60 records from University of Michigan Museum of Zoology, Division of Reptiles &amp; Amphibians
+68 records from INSDC Sequences
+69 records from Canberra Nature Map
+70 records from kznm-herpetology-collection
+70 records from International Barcode of Life project (iBOL)
+92 records from Queen Victoria Museum Art Gallery provider for OZCAM
+130 records from MVZ Herp Collection (Arctos)
+139 records from ALA species sightings and OzAtlas
+199 records from Occurrence records of southern African aquatic biodiversity
+212 records from Observation.org, Nature data from around the World
+216 records from Arthur Chapman Observations
+243 records from Ditsong National Museum of Natural History Collection: 1805-2008
+266 records from CAS Herpetology (HERP)
+282 records from The distribution and host range of the pandemic disease chytridiomycosis in Australia, spanning surveys from 1956 to 2007.
+329 records from Northern Territory Museum and Art Gallery provider for OZCAM
+330 records from Earth Guardians Weekly Feed
+387 records from LACM Vertebrate Collection
+440 records from KUBI Herpetology Collection
+478 records from NMNH Extant Specimen Records (USNM, US)
+595 records from ACT Wildlife Atlas
+664 records from Frogwatch ACT and Region
+734 records from Australian National Wildlife Collection provider for OZCAM
+883 records from Museum of Comparative Zoology, Harvard University
+1005 records from Fauna Atlas N.T.
+1504 records from Queensland Museum provider for OZCAM
+1521 records from South Australian Museum Australia provider for OZCAM
+1752 records from FrogWatch SA
+1797 records from Western Australian Museum provider for OZCAM
+2424 records from Tasmanian Natural Values Atlas
+2744 records from WildNet - Queensland Wildlife Data
+3385 records from Australian Museum provider for OZCAM
+3656 records from Melbourne Water Frog Census
+4733 records from iNaturalist Research-grade Observations
+5363 records from Museums Victoria provider for OZCAM
+10764 records from SA Fauna (BDBSA)
+12828 records from Victorian Biodiversity Atlas
+56010 records from NSW BioNet Atlas
+76367 records from FrogID</para>
+    </abstract>
+      <contact>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2022-02-23T05:24:44Z</dateStamp>
+      <citation identifier="10.15468/dl.csc4n4">GBIF Occurrence Download 10.15468/dl.csc4n4</citation>
+              <physical>
+                  <objectName>Darwin Core Archive</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>Darwin Core Archive</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">https://api.gbif.org/v1/occurrence/download/request/0151493-210914110416597.zip</url>
+                      </online>
+                  </distribution>
+              </physical>
+      </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>
